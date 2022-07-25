@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### About Me:
+
+My name is Rose.
+
 <!--
 **RozuRoseMary/RozuRoseMary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
