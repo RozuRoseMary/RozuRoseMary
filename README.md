@@ -1,7 +1,15 @@
 # 👋 ☺️ Hi ! I'm Piyawan (Rose) 
 
 <h3> 📌 About Me: </h3>
--  ✉️ How to reach me: piyawan.yost@gmail.com
+<ul>
+  <li>👀 Currently looking for a full time job in position Full Stack Developer or Fron-End Developer.</li>
+  <li> ✉️ How to reach me: 
+    <ul> 
+      <li>Email: piyawan.yost@gmail.com</li>
+      <li>Tel: 061-013-3338</li>
+    </ul>
+   </li>
+</ul>
 
 <h3>💻 Tech Stack</h3>
 
